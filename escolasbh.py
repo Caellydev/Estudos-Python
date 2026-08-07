@@ -32,3 +32,7 @@ plt.show()
  - Ordena do valor mais frequente pro menos frequente (decrescente)
  - Ignora valores NaN (não conta ausências) por padrão.
 '''
+
+#git add .
+#git commit -m "sua mensagem aqui"
+#git push
