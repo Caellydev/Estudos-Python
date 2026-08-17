@@ -8,9 +8,9 @@ print(escolas.shape)
 
 print(escolas["NOM_BAIR"].value_counts())
 
-top10 = escolas["NOM_BAIR"].value_counts().head(10)
+top10 = escolas["NOM_BAIR"].value_counts().head(20)
 top10.plot(kind='bar')
-plt.title("Top 10 bairros com mais escolas municipais - BH")
+plt.title("Top 20 bairros com mais escolas municipais - BH")
 plt.xlabel("Bairros")
 plt.ylabel("Quantidade de escolas")
 plt.xticks(rotation=45, ha='right')
