@@ -15,4 +15,4 @@ Python 3;
 
 pandas;
 
-matplotlib.
+matplotlib e outros.

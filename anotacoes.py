@@ -45,3 +45,5 @@ print(f"{nome!r}")
 palavra = "café"
 print(f"{palavra!r}")  # 'café'
 print(f"{palavra!a}")  # 'caf\xe9'
+
+#====== Teste de Commit

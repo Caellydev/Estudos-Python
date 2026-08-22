@@ -28,7 +28,7 @@ elif operadores == "*":
 
 elif operadores == "/":
     div = num1/num2
-    print(f"O resultado da divisão é: {div}")
+    print(f"O resultado da divisão é: {div:.2f}")
 
 else:
     print("Digite novamente.")
