@@ -14,4 +14,4 @@ def test_numeros_repetidos():
 
 
 def test_numeros_negativos():
-    assert two_sum([-1, -2, -3, -4, -5], -8) == [2, 4]
+    assert two_sum([-1, -2, -3, -4, -5], 8) == [2, 4]
